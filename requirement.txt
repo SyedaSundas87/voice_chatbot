@@ -1,0 +1,5 @@
+whisper
+gtts
+groq
+python-dotenv
+streamlit
